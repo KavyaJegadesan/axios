@@ -1,9 +1,9 @@
 body{
-    background-image: linear-gradient(135deg, rgb(68, 202, 201) 0%,rgb(252, 255, 114) 100%);
+    background-image: linear-gradient(135deg,  rgb(122,119,238) 0%,rgb(110,26,193) 100%);
     background-attachment: fixed;
 }
 .Title h1{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(137,7,134);
     margin: 0px auto 15px auto ;
     padding: 10px;
     border-radius: 15px ;
